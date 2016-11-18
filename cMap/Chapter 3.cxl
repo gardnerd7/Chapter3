@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>Chapter 3</dc:title>
+        <dcterms:created>2016-11-11T10:53:09-06:00</dcterms:created>
+        <dcterms:modified>2016-11-14T10:53:25-06:00</dcterms:modified>
+        <dc:language>en</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 6.01.01</dc:publisher>
+        <dc:extent>4909 bytes</dc:extent>
+        <dc:source>cmap:1QRB977N2-138RXXY-1:1QRB979H8-25L9GBY-Z:1QRB994W8-PYTHCV-6Q</dc:source>
+    </res-meta>
+    <map width="1984" height="741">
+        <concept-list>
+            <concept id="1QRQLJMMP-RQBPQL-1PD" label=" cocci&#xd;(spherical)"/>
+            <concept id="1QRQJBRN8-25QCM5V-JK" label="Eukaryotic Cells"/>
+            <concept id="1QRQJ5X5S-1X3N2HZ-93" label="Cells in&#xa;Biotechnology"/>
+            <concept id="1QRB99CRW-JYNH2S-71" label="Chapter 3:&#xa;Microbiology and Cell Culture"/>
+            <concept id="1QRBBTK98-WPG20Y-BZ" label="Bacteria"/>
+            <concept id="1QRQJXY98-1PJVQ5S-T7" label="Plants"/>
+            <concept id="1QRQKS4DJ-B949NJ-18Y" label="Dark&#xa;Choclate"/>
+            <concept id="1QRQKRNZ1-24NPCMN-17Y" label="Cheese"/>
+            <concept id="1QRQK3F7D-151M2TG-X1" label="Duncan Gardner&#xa;Biotechnology&#xa;11/11/16"/>
+            <concept id="1QRQK9DQL-20C5N6V-YM" label="Food Production"/>
+            <concept id="1QRQL63RK-RWLBW2-1LZ" label="Protein Production"/>
+            <concept id="1QRQL5P6F-ZB9QFR-1L2" label="Stem Cells"/>
+            <concept id="1QRQJY849-M1LV5J-V5" label="Animals"/>
+            <concept id="1QRQJVHB4-PJ12HB-R6" label="Humans"/>
+            <concept id="1QRQLQC4X-1DD0JRP-1RT" label="bacilli&#xa;(rod-shaped)"/>
+            <concept id="1QRQKG8J5-1WMBX9B-109" label="Yogurt"/>
+            <concept id="1QRQL44YY-1NFM5BS-1J5" label="Fermintation"/>
+            <concept id="1QRQKMPH5-24W3C0M-12K" label="Prokaryote"/>
+            <concept id="1QRQKXD4N-9LPQFB-1B3" label="Pickles"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1QRQLJMMR-1FX3Y27-1PH" label="diffrently&#xa;shaped cell&#xa;names"/>
+            <linking-phrase id="1QRQKNZPW-1367LNL-14X" label="or also&#xa;known as"/>
+            <linking-phrase id="1QRQL44YZ-FKXLPS-1J8" label="uses"/>
+            <linking-phrase id="1QRQJD3ZH-1217W2K-L0" label="consists of"/>
+            <linking-phrase id="1QRQK9DQM-Y0WQLW-YQ" label="used in"/>
+            <linking-phrase id="1QRQKG8J6-24Q8ZP4-10D" label="such as"/>
+            <linking-phrase id="1QRQJVHB5-QPTP7C-R9" label="are in"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1QRQJVHB6-1ZHCR8S-RK" from-id="1QRQJVHB5-QPTP7C-R9" to-id="1QRQJVHB4-PJ12HB-R6"/>
+            <connection id="1QRQKNVXQ-TBTF1L-14D" from-id="1QRQJD3ZH-1217W2K-L0" to-id="1QRQKMPH5-24W3C0M-12K"/>
+            <connection id="1QRQJVHB6-27ZRBLK-RD" from-id="1QRQJBRN8-25QCM5V-JK" to-id="1QRQJVHB5-QPTP7C-R9"/>
+            <connection id="1QRQKRNZ2-266SDRM-181" from-id="1QRQKG8J6-24Q8ZP4-10D" to-id="1QRQKRNZ1-24NPCMN-17Y"/>
+            <connection id="1QRQKNZPX-1Z7Y11L-156" from-id="1QRQKNZPW-1367LNL-14X" to-id="1QRBBTK98-WPG20Y-BZ"/>
+            <connection id="1QRQK9DQN-21HDFQW-YT" from-id="1QRBBTK98-WPG20Y-BZ" to-id="1QRQK9DQM-Y0WQLW-YQ"/>
+            <connection id="1QRQK9DQN-2DFHLDL-Z0" from-id="1QRQK9DQM-Y0WQLW-YQ" to-id="1QRQK9DQL-20C5N6V-YM"/>
+            <connection id="1QRQL63RL-1LP5MBF-1M2" from-id="1QRQL44YZ-FKXLPS-1J8" to-id="1QRQL63RK-RWLBW2-1LZ"/>
+            <connection id="1QRQL44Z0-KX99GD-1JJ" from-id="1QRQL44YZ-FKXLPS-1J8" to-id="1QRQL44YY-1NFM5BS-1J5"/>
+            <connection id="1QRQKNZPX-L4BXTJ-150" from-id="1QRQKMPH5-24W3C0M-12K" to-id="1QRQKNZPW-1367LNL-14X"/>
+            <connection id="1QRQL5P6G-17PHZBP-1L5" from-id="1QRQL44YZ-FKXLPS-1J8" to-id="1QRQL5P6F-ZB9QFR-1L2"/>
+            <connection id="1QRQJY84B-1C0RHXV-V8" from-id="1QRQJVHB5-QPTP7C-R9" to-id="1QRQJY849-M1LV5J-V5"/>
+            <connection id="1QRQKG8J7-19FD3TB-10H" from-id="1QRQK9DQL-20C5N6V-YM" to-id="1QRQKG8J6-24Q8ZP4-10D"/>
+            <connection id="1QRQL44YZ-1469XC4-1JC" from-id="1QRQJBRN8-25QCM5V-JK" to-id="1QRQL44YZ-FKXLPS-1J8"/>
+            <connection id="1QRQLJMMS-25WVMJG-1PL" from-id="1QRBBTK98-WPG20Y-BZ" to-id="1QRQLJMMR-1FX3Y27-1PH"/>
+            <connection id="1QRQJD3ZJ-ZZBSHY-L3" from-id="1QRQJ5X5S-1X3N2HZ-93" to-id="1QRQJD3ZH-1217W2K-L0"/>
+            <connection id="1QRQLJMMS-26Q9D8P-1PR" from-id="1QRQLJMMR-1FX3Y27-1PH" to-id="1QRQLJMMP-RQBPQL-1PD"/>
+            <connection id="1QRQKS4DK-15206MZ-191" from-id="1QRQKG8J6-24Q8ZP4-10D" to-id="1QRQKS4DJ-B949NJ-18Y"/>
+            <connection id="1QRQJDQ3K-M29HHD-M3" from-id="1QRQJBRN8-25QCM5V-JK" to-id="1QRQJD3ZH-1217W2K-L0"/>
+            <connection id="1QRQKG8J7-Y0HT86-10P" from-id="1QRQKG8J6-24Q8ZP4-10D" to-id="1QRQKG8J5-1WMBX9B-109"/>
+            <connection id="1QRQLQC4Y-YPRPFS-1RX" from-id="1QRQLJMMR-1FX3Y27-1PH" to-id="1QRQLQC4X-1DD0JRP-1RT"/>
+            <connection id="1QRQJXY99-19J3SJV-TB" from-id="1QRQJVHB5-QPTP7C-R9" to-id="1QRQJXY98-1PJVQ5S-T7"/>
+            <connection id="1QRQKXD4P-91KV3F-1B6" from-id="1QRQKG8J6-24Q8ZP4-10D" to-id="1QRQKXD4N-9LPQFB-1B3"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1QRQLJMMP-RQBPQL-1PD" x="388" y="586" width="81" height="42" font-style="plain" background-color="150,200,255,255"/>
+            <concept-appearance id="1QRQJBRN8-25QCM5V-JK" x="825" y="280" width="112" height="28" font-style="plain" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQJ5X5S-1X3N2HZ-93" x="578" y="78" width="112" height="42" font-style="bold" background-color="255,255,150,255"/>
+            <concept-appearance id="1QRB99CRW-JYNH2S-71" x="1897" y="78" width="192" height="42" background-color="255,200,150,255">
+                <localized-style begin="0" end="10" font-style="bold"/>
+            </concept-appearance>
+            <concept-appearance id="1QRBBTK98-WPG20Y-BZ" x="216" y="362" width="65" height="25" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQJXY98-1PJVQ5S-T7" x="672" y="416" width="52" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQKS4DJ-B949NJ-18Y" x="188" y="745" width="68" height="40" font-style="plain" background-color="200,150,255,255"/>
+            <concept-appearance id="1QRQKRNZ1-24NPCMN-17Y" x="285" y="738" width="60" height="25" font-style="plain" background-color="200,150,255,255"/>
+            <concept-appearance id="1QRQK3F7D-151M2TG-X1" x="69" y="54" width="115" height="56" font-style="plain" background-color="255,255,255,255"/>
+            <concept-appearance id="1QRQK9DQL-20C5N6V-YM" x="209" y="584" width="113" height="25" font-style="plain" background-color="150,200,255,255"/>
+            <concept-appearance id="1QRQL63RK-RWLBW2-1LZ" x="953" y="401" width="126" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQL5P6F-ZB9QFR-1L2" x="1212" y="390" width="80" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQJY849-M1LV5J-V5" x="751" y="419" width="64" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQJVHB4-PJ12HB-R6" x="832" y="426" width="65" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQLQC4X-1DD0JRP-1RT" x="493" y="589" width="95" height="42" font-style="plain" background-color="150,200,255,255"/>
+            <concept-appearance id="1QRQKG8J5-1WMBX9B-109" x="94" y="732" width="56" height="27" font-style="plain" background-color="200,150,255,255"/>
+            <concept-appearance id="1QRQL44YY-1NFM5BS-1J5" x="1120" y="426" width="93" height="25" font-style="plain" background-color="255,150,200,255"/>
+            <concept-appearance id="1QRQKMPH5-24W3C0M-12K" x="389" y="258" width="81" height="28" font-style="plain" background-color="200,255,200,255"/>
+            <concept-appearance id="1QRQKXD4N-9LPQFB-1B3" x="353" y="732" width="57" height="25" font-style="plain" background-color="200,150,255,255"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1QRQLJMMR-1FX3Y27-1PH" x="307" y="478" width="69" height="41" background-color="255,255,255,255"/>
+            <linking-phrase-appearance id="1QRQKNZPW-1367LNL-14X" x="297" y="312" width="59" height="26"/>
+            <linking-phrase-appearance id="1QRQL44YZ-FKXLPS-1J8" x="961" y="347" width="29" height="9" background-color="255,255,255,255"/>
+            <linking-phrase-appearance id="1QRQJD3ZH-1217W2K-L0" x="575" y="200" width="66" height="11"/>
+            <linking-phrase-appearance id="1QRQK9DQM-Y0WQLW-YQ" x="213" y="474" width="46" height="11"/>
+            <linking-phrase-appearance id="1QRQKG8J6-24Q8ZP4-10D" x="207" y="662" width="47" height="11" background-color="255,255,255,255"/>
+            <linking-phrase-appearance id="1QRQJVHB5-QPTP7C-R9" x="760" y="347" width="37" height="11"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1QRQJVHB6-1ZHCR8S-RK" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKNVXQ-TBTF1L-14D" from-pos="top" to-pos="right"/>
+            <connection-appearance id="1QRQJVHB6-27ZRBLK-RD" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKRNZ2-266SDRM-181" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKNZPX-1Z7Y11L-156" from-pos="center" to-pos="top"/>
+            <connection-appearance id="1QRQK9DQN-21HDFQW-YT" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQK9DQN-2DFHLDL-Z0" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQL63RL-1LP5MBF-1M2" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQL44Z0-KX99GD-1JJ" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKNZPX-L4BXTJ-150" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQL5P6G-17PHZBP-1L5" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQJY84B-1C0RHXV-V8" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKG8J7-19FD3TB-10H" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQL44YZ-1469XC4-1JC" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQLJMMS-25WVMJG-1PL" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQJD3ZJ-ZZBSHY-L3" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQLJMMS-26Q9D8P-1PR" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKS4DK-15206MZ-191" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQJDQ3K-M29HHD-M3" from-pos="center" to-pos="top"/>
+            <connection-appearance id="1QRQKG8J7-Y0HT86-10P" from-pos="top" to-pos="center"/>
+            <connection-appearance id="1QRQLQC4Y-YPRPFS-1RX" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQJXY99-19J3SJV-TB" from-pos="center" to-pos="center"/>
+            <connection-appearance id="1QRQKXD4P-91KV3F-1B6" from-pos="center" to-pos="center"/>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" max-width="-1.0"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style font-style="plain" background-color="150,200,255,255"/>
+                <linking-phrase-style background-color="255,255,255,255"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="1QRB994W8-PYTHCV-6Q">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
